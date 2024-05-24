@@ -1,0 +1,17 @@
+{
+  "name": "rcon-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "node-cron": "^3.0.3",
+    "rcon-client": "^4.2.4",
+    "webrconjs": "^1.0.0"
+  }
+}
